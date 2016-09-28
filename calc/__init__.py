@@ -11,7 +11,10 @@ def div(a, b):
     return a
 
 def mul(a, b):
-    return b
+	"""
+	Returns the product of A and B
+	"""
+    return a * b
 
 def mod(a, b):
     res = a % b
